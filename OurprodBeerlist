@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Cat",
       "desc": "Sexy", 
-      "image": "url("C:\Users\Oliver Horvath\Desktop\Webbutveckling\Fixed web page\images\Aintnoway.gif")"
+      "image": "url(C:\Users\Oliver Horvath\Desktop\Webbutveckling\Fixed web page\images\Aintnoway.gif)"
       },
     {
       "id": 2,
