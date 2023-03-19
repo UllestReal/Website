@@ -9,18 +9,18 @@
       "id": 2,
       "category": "Cat2",
       "desc": "gg",
-      "url": "https://www.svt.se/"
+      "url": "url("images/Classic.jpg")"
     },
     {
       "id": 3,
       "category": "Maxwell",
       "desc": "aaa",
-      "url": "https://www.svt.se/"
+      "url": "url("images/Classic.jpg")"
     },
     {
       "id": 4,
       "category": "Fat",
       "desc": "we",
-      "url": "https://www.svt.se/"
+      "url": "url("images/Classic.jpg")"
     }
   ]
