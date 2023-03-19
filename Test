@@ -3,7 +3,7 @@
       "id": 1,
       "category": "Cat",
       "desc": "Sexy", 
-      "url": "url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ball%2C_%E0%B4%AA%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8D.JPG/1200px-Ball%2C_%E0%B4%AA%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8D.JPG)"
+      "url": "url("images/Classic.jpg")"
     },
     {
       "id": 2,
