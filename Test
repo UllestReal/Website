@@ -1,25 +1,25 @@
 [
     {
       "id": 1,
-      "category": "Cat",
+      "name": "Cat",
       "desc": "Sexy", 
       "url": "url(https://health.clevelandclinic.org/wp-content/uploads/sites/3/2023/01/Blue-Balls-Pit-667360418-770x533-1.jpg)"
       },
     {
       "id": 2,
-      "category": "Cat2",
+      "name": "Cat2",
       "desc": "gg",
       "url": "url(https://health.clevelandclinic.org/wp-content/uploads/sites/3/2023/01/Blue-Balls-Pit-667360418-770x533-1.jpg)"
     },
     {
       "id": 3,
-      "category": "Maxwell",
+      "name": "Maxwell",
       "desc": "aaa",
       "url": ""
     },
     {
       "id": 4,
-      "category": "Fat",
+      "name": "Fat",
       "desc": "we",
       "url": ""
     }
