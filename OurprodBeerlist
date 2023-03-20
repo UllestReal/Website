@@ -15,12 +15,12 @@
       "id": 3,
       "name": "Maxwell",
       "desc": "https://www.svt.se/nyheter/utrikes/sa-har-irakkriget-paverkat-varlden-20-ar-senare",
-      "image": ""
+      "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323375367630868/Beer_bubbles.gif)"
     },
     {
       "id": 4,
       "name": "Fat",
       "desc": "https://www.svt.se/nyheter/utrikes/sa-har-irakkriget-paverkat-varlden-20-ar-senare",
-      "image": ""
+      "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323581685440512/Austria_Germany_flag.png)"
     }
   ]
