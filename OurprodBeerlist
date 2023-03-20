@@ -2,25 +2,25 @@
     {
       "id": 1,
       "name": "Cat",
-      "desc": " ", 
+      "desc": "cat", 
       "image": "url(https://media.tenor.com/_zlGAIPmOMsAAAAd/flop-binguscord.gif)"
       },
     {
       "id": 2,
       "name": "Cat2",
-      "desc": " ",
+      "desc": "gato",
       "image": "url(https://health.clevelandclinic.org/wp-content/uploads/sites/3/2023/01/Blue-Balls-Pit-667360418-770x533-1.jpg)"
     },
     {
       "id": 3,
       "name": "Maxwell",
-      "desc": " ",
+      "desc": "gato",
       "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323375367630868/Beer_bubbles.gif)"
     },
     {
       "id": 4,
       "name": "Fat",
-      "desc": " ",
+      "desc": "gato",
       "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323581685440512/Austria_Germany_flag.png)"
     }
   ]
