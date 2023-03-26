@@ -4,23 +4,27 @@
       "name": "Fat Gandalf",
       "desc": "a", 
       "image": "url(https://media.tenor.com/_zlGAIPmOMsAAAAd/flop-binguscord.gif)"
+      "category": "IPA"
       },
     {
       "id": 2,
       "name": "The Coco Hut",
       "desc": "b",
       "image": "url(https://health.clevelandclinic.org/wp-content/uploads/sites/3/2023/01/Blue-Balls-Pit-667360418-770x533-1.jpg)"
+      "category": "Starköl"
     },
     {
       "id": 3,
       "name": "Maxwell",
       "desc": "c",
       "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323375367630868/Beer_bubbles.gif)"
+      "category": "Starköl"
     },
     {
       "id": 4,
       "name": "Fat",
       "desc": "d",
       "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323581685440512/Austria_Germany_flag.png)"
+      "category": "starköl"
     }
   ]
