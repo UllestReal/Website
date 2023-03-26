@@ -1,13 +1,13 @@
 [
     {
       "id": 1,
-      "name": "Cat",
+      "name": "Fat Gandalf",
       "desc": "a", 
       "image": "url(https://media.tenor.com/_zlGAIPmOMsAAAAd/flop-binguscord.gif)"
       },
     {
       "id": 2,
-      "name": "Cat2",
+      "name": "The Coco Hut",
       "desc": "b",
       "image": "url(https://health.clevelandclinic.org/wp-content/uploads/sites/3/2023/01/Blue-Balls-Pit-667360418-770x533-1.jpg)"
     },
