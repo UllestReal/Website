@@ -5,7 +5,7 @@
       "desc": "a", 
       "image": "url(https://media.tenor.com/_zlGAIPmOMsAAAAd/flop-binguscord.gif)",
       "category": "IPA",
-      "class": "card "
+      "class": "card hide"
       },
     {
       "id": 2,
