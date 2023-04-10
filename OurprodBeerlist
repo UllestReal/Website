@@ -39,10 +39,12 @@
         "category": "Fatass",
         "class": "card "
     },
-    "id": 6,
+    {
+        "id": 6,
         "name": "dees",
         "desc": "a",
         "image": "url(http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcSpvHuJXMH_4TqDgvPRKRvPApnh-6WbbjN8BvDNoYeTcmh-mn14wVJEInh9Gpfa5i0wbIZus1ZSDeY-1goYWsw)",
         "category": "se",
         "class": "card ontap"
+    }
   ]
