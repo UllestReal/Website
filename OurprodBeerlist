@@ -5,7 +5,8 @@
       "desc": "a", 
       "image": "url(https://media.tenor.com/_zlGAIPmOMsAAAAd/flop-binguscord.gif)",
       "category": "IPA",
-      "class": "card "
+      "class": "card ",
+      "rating": "3"
       },
     {
       "id": 2,
@@ -13,7 +14,8 @@
       "desc": "b",
       "image": "url(https://health.clevelandclinic.org/wp-content/uploads/sites/3/2023/01/Blue-Balls-Pit-667360418-770x533-1.jpg)",
       "category": "Starköl",
-      "class": "card "
+      "class": "card ",
+      "rating": "4"
     },
     {
       "id": 3,
@@ -21,7 +23,8 @@
       "desc": "c",
       "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323375367630868/Beer_bubbles.gif)",
       "category": "Starköl",
-      "class": "card "
+      "class": "card ",
+      "rating": "3"
     },
     {
       "id": 4,
@@ -29,7 +32,8 @@
       "desc": "d",
       "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323581685440512/Austria_Germany_flag.png)",
       "category": "Starköl",
-      "class": "card "
+      "class": "card ",
+      "rating": "2"
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "desc": "e",
         "image": "url(https://thumbs.dreamstime.com/b/surprised-fat-man-25234867.jpg)",
         "category": "Fatass",
-        "class": "card "
+        "class": "card ",
+      "rating": "1.25"
     },
     {
         "id": 6,
@@ -45,6 +50,7 @@
         "desc": "a",
         "image": "url(http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcSpvHuJXMH_4TqDgvPRKRvPApnh-6WbbjN8BvDNoYeTcmh-mn14wVJEInh9Gpfa5i0wbIZus1ZSDeY-1goYWsw)",
         "category": "se",
-        "class": "card "
+        "class": "card ",
+      "rating": "5"
     }
   ]
