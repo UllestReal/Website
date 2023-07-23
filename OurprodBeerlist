@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Fat Gandalf",
-      "desc": "a", 
+      "desc": "Deadpool guy", 
       "image": "url(https://media.tenor.com/_zlGAIPmOMsAAAAd/flop-binguscord.gif)",
       "category": "IPA",
       "class": "card ",
@@ -11,38 +11,38 @@
     {
       "id": 2,
       "name": "The Coco Hut",
-      "desc": "b",
+      "desc": "Named after one of our favorite bars from Cambodia",
       "image": "url(https://health.clevelandclinic.org/wp-content/uploads/sites/3/2023/01/Blue-Balls-Pit-667360418-770x533-1.jpg)",
-      "category": "Starköl",
+      "category": "Coconut Milk Stout",
       "class": "card ",
       "rating": "4"
     },
     {
       "id": 3,
-      "name": "Maxwell",
-      "desc": "c",
+      "name": "Oat Cream IPA",
+      "desc": "an American IPA with intense fruit flavors and aromas, made using lactose and oats to impart a smooth and creamy texture",
       "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323375367630868/Beer_bubbles.gif)",
-      "category": "Starköl",
+      "category": "IPA",
       "class": "card ",
       "rating": "3"
     },
     {
       "id": 4,
-      "name": "Fat",
-      "desc": "d",
+      "name": "Belgian Blonde Ale",
+      "desc": "typically easy-drinking, with a low but pleasing hop bitterness",
       "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323581685440512/Austria_Germany_flag.png)",
-      "category": "Starköl",
+      "category": "Ale",
       "class": "card ",
       "rating": "2"
     },
     {
         "id": 5,
-        "name": "Fatman",
+        "name": "Irish Red Ale",
         "desc": "e",
         "image": "url(https://thumbs.dreamstime.com/b/surprised-fat-man-25234867.jpg)",
-        "category": "Fatass",
+        "category": "Ale",
         "class": "card ",
-      "rating": "1.25"
+        "rating": "1.25"
     },
     {
         "id": 6,
@@ -51,6 +51,6 @@
         "image": "url(http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcSpvHuJXMH_4TqDgvPRKRvPApnh-6WbbjN8BvDNoYeTcmh-mn14wVJEInh9Gpfa5i0wbIZus1ZSDeY-1goYWsw)",
         "category": "se",
         "class": "card ",
-      "rating": "5"
+        "rating": "5"
     }
   ]
