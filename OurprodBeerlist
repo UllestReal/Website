@@ -7,7 +7,7 @@
       "category": "IPA",
       "class": "card ",
       "rating": "3",
-      "path": ""
+      "path": "Fat_Gandalf"
       },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "category": "Coconut Milk Stout",
       "class": "card ",
       "rating": "4",
-      "path": ""
+      "path": "The_Coco_hut"
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "category": "IPA",
       "class": "card ",
       "rating": "3",
-      "path": ""
+      "path": "Oat_Cream_IPA"
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "category": "Ale",
       "class": "card ",
       "rating": "2",
-      "path": ""
+      "path": "Belgian_Blonde_Ale"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "category": "Ale",
         "class": "card ",
         "rating": "1.25",
-        "path": ""
+        "path": "Irish_Red_Ale"
     },
     {
         "id": 6,
@@ -57,6 +57,6 @@
         "category": "se",
         "class": "card ",
         "rating": "5",
-        "path": ""
+        "path": "Dees"
     }
   ]
