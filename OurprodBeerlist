@@ -6,6 +6,7 @@
         "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1137779560528756746/WIN_20230806_18_07_39_Pro.jpg)",
         "category": "IPA",
         "IBU": "200",
+        "ALC": "200%",
         "class": "card ",
         "rating": "3",
         "path": "Fat_Gandalf"
@@ -17,6 +18,7 @@
         "image": "url(https://health.clevelandclinic.org/wp-content/uploads/sites/3/2023/01/Blue-Balls-Pit-667360418-770x533-1.jpg)",
         "category": "Coconut Milk Stout",
         "IBU": "200",
+        "ALC": "200%",
         "class": "card ",
         "rating": "4",
         "path": "The_Coco_hut"
@@ -28,6 +30,7 @@
         "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323375367630868/Beer_bubbles.gif)",
         "category": "IPA",
         "IBU": "200",    
+        "ALC": "200%",
         "class": "card ",
         "rating": "3",
         "path": "Oat_Cream_IPA"
@@ -39,6 +42,7 @@
         "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1087323581685440512/Austria_Germany_flag.png)",
         "category": "Ale",
         "IBU": "200",
+        "ALC": "200%",
         "class": "card ",
         "rating": "2",
         "path": "Belgian_Blonde_Ale"
@@ -50,6 +54,7 @@
         "image": "url(https://thumbs.dreamstime.com/b/surprised-fat-man-25234867.jpg)",
         "category": "Ale",
         "IBU": "200",
+        "ALC": "200%",
         "class": "card ",
         "rating": "1.25",
         "path": "Irish_Red_Ale"
@@ -61,6 +66,7 @@
         "image": "url(http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcSpvHuJXMH_4TqDgvPRKRvPApnh-6WbbjN8BvDNoYeTcmh-mn14wVJEInh9Gpfa5i0wbIZus1ZSDeY-1goYWsw)",
         "category": "se",
         "IBU": "200",
+        "ALC": "200%",
         "class": "card ",
         "rating": "5",
         "path": "Dees"
