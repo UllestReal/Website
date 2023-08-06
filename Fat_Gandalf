@@ -1,10 +1,12 @@
 [
     {
-      "id": 1,
-      "version": "1.0"
+        "id": 1,
+        "version": "1.0",
+        "changes": "First version!!! no changes"
     },
     {
-      "id": 2,
-      "version": "2.0"
+        "id": 2,
+        "version": "2.0",
+        "changes": "made it smelly"
     }
-  ]
+]
