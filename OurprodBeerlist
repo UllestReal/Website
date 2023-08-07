@@ -7,6 +7,7 @@
         "category": "IPA",
         "IBU": "200",
         "ALC": "200%",
+        "hops": "this,that",
         "class": "card ",
         "rating": "3",
         "path": "Fat_Gandalf"
@@ -19,6 +20,7 @@
         "category": "Coconut Milk Stout",
         "IBU": "200",
         "ALC": "200%",
+        "hops": "this,that",
         "class": "card ",
         "rating": "4",
         "path": "The_Coco_hut"
@@ -31,6 +33,7 @@
         "category": "IPA",
         "IBU": "200",    
         "ALC": "200%",
+        "hops": "this,that",
         "class": "card ",
         "rating": "3",
         "path": "Oat_Cream_IPA"
@@ -43,6 +46,7 @@
         "category": "Ale",
         "IBU": "200",
         "ALC": "200%",
+        "hops": "this,that",
         "class": "card ",
         "rating": "2",
         "path": "Belgian_Blonde_Ale"
@@ -55,6 +59,7 @@
         "category": "Ale",
         "IBU": "200",
         "ALC": "200%",
+        "hops": "this,that",
         "class": "card ",
         "rating": "1.25",
         "path": "Irish_Red_Ale"
@@ -67,6 +72,7 @@
         "category": "se",
         "IBU": "200",
         "ALC": "200%",
+        "hops": "this,that",
         "class": "card ",
         "rating": "5",
         "path": "Dees"
