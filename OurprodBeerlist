@@ -28,7 +28,7 @@
     {
         "id": 3,
         "name": "Oat Cream IPA",
-        "desc": "An American IPA with intense fruit flavors and aromas, made using lactose and oats to impart a smooth and creamy texture",
+        "desc": "The “Oat Cream IPA” is an American IPA with intense fruit flavors and aromas and often opaque with substantial haze made using lactose and oats to impart a smooth and creamy texture. Less perceived bitterness than traditional IPAs but always massively hop forward on the aromatic side. This emphasis on late hopping, especially dry hopping, with hops with tropical fruit qualities lends the specific ‘juicy’ character for which this style is known. Appearance ranges from hazy, often opaque, straw to yellow and sometimes with an orange hue.",
         "image": "url(https://media.discordapp.net/attachments/1018906633541275708/1138203194724466809/Oat_Cream.PNG?width=468&height=468)",
         "type": "IPA",
         "IBU": "30",    
