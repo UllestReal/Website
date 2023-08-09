@@ -2,11 +2,15 @@
     {
         "version": "1.1",
         "date": "5/30/2023",
+        "IBU": "test",
+        "ALC": "test",
         "changes": "Dryhopped with Chinook and Idaho-7"
     },
     {
         "version": "1.0",
         "date": "4/12/2023",
+        "IBU": "test",
+        "ALC": "test",
         "changes": "Dryhopped with Cashmiere and Mosaic"
     }
 ]
