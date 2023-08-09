@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "name": "Fat Gandalf",
-        "desc": "Deadpool guy", 
+        "name": "Brown Ale",
+        "desc": "Brown ale is a style of beer with a dark amber or brown colour.", 
         "image": "url(https://cdn.discordapp.com/attachments/1087322495872405634/1137779560528756746/WIN_20230806_18_07_39_Pro.jpg)",
-        "type": "IPA",
+        "type": "Ale",
         "IBU": "200",
         "ALC": "200%",
-        "hops": "this,that",
+        "hops": "Fuggles",
         "class": "card ",
         "rating": "3",
-        "path": "Fat_Gandalf"
+        "path": "Brown_Ale"
     },
     {
         "id": 2,
