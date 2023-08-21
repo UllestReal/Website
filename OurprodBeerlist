@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Brown Ale",
         "desc": "Brown ale is a style of beer with a dark amber or brown colour.", 
-        "image": "url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Oak_Creek_Nut_Brown_Ale_%2827911122885%29.jpg/220px-Oak_Creek_Nut_Brown_Ale_%2827911122885%29.jpg)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Oak_Creek_Nut_Brown_Ale_%2827911122885%29.jpg/220px-Oak_Creek_Nut_Brown_Ale_%2827911122885%29.jpg",
         "type": "Ale",
         "hops": "Fuggles",
         "class": "card ",
