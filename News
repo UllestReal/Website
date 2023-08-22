@@ -1,1 +1,23 @@
-
+[
+    {
+        "id": "newsa"
+        "imageID"; "https://cdn.discordapp.com/attachments/1143459656107298896/1143460030029508678/NewWebsite.png"
+    },
+    {
+        "id": "newsb"
+        "imageID"; "https://cdn.discordapp.com/attachments/1143459656107298896/1143460083158749224/Birddayboy.png"
+    },
+    {
+        "id": "newsc"
+        "imageID"; ""
+    },
+    {
+        "id": "newsd"
+        "imageID"; ""
+    },
+    {
+        "id": "newse"
+        "imageID"; ""
+    },
+    
+]
